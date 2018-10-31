@@ -1,0 +1,10 @@
+Usuarios: 
+
+administrador: 
+username: Proyecto 
+Pass: proyecto123
+
+
+Jperez: 
+username: jperez
+pass: proyecto123
